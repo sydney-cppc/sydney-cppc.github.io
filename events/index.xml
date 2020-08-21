@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Events | Sydney-CPPC</title>
+    <link>/events/</link>
+      <atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Events</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 10:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Events</title>
+      <link>/events/</link>
+    </image>
+    
+    <item>
+      <title>Light Dark World 2020</title>
+      <link>/events/20201214-lightdm/</link>
+      <pubDate>Mon, 14 Dec 2020 10:30:00 +0000</pubDate>
+      <guid>/events/20201214-lightdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gordon Godfrey workshop on astroparticle physics</title>
+      <link>/events/20201130-gordongodfrey/</link>
+      <pubDate>Mon, 30 Nov 2020 10:00:00 +0000</pubDate>
+      <guid>/events/20201130-gordongodfrey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Sydney Meeting</title>
+      <link>/events/20200221-sydneymeeting/</link>
+      <pubDate>Fri, 21 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>/events/20200221-sydneymeeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TeVPA 2019</title>
+      <link>/events/20191202-tevpa/</link>
+      <pubDate>Mon, 02 Dec 2019 10:00:00 +0000</pubDate>
+      <guid>/events/20191202-tevpa/</guid>
+      <description>&lt;p&gt;See the 
+&lt;a href=&#34;https://indico.cern.ch/event/828038/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;indico page&lt;/a&gt; for details and registration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Sydney Spring School</title>
+      <link>/events/20191126-springschool/</link>
+      <pubDate>Tue, 26 Nov 2019 10:00:00 +0000</pubDate>
+      <guid>/events/20191126-springschool/</guid>
+      <description>&lt;p&gt;See the 
+&lt;a href=&#34;https://indico.cern.ch/event/833042/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;indico page&lt;/a&gt; for details and registration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CosPA 2016</title>
+      <link>/events/20161128-cospa/</link>
+      <pubDate>Mon, 28 Nov 2016 10:00:00 +0000</pubDate>
+      <guid>/events/20161128-cospa/</guid>
+      <description>&lt;p&gt;See the 
+&lt;a href=&#34;https://indico.cern.ch/event/491882/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;indico page&lt;/a&gt; for details and registration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Sydney Spring School on Particle Physics and Cosmology</title>
+      <link>/events/20151001-springschool/</link>
+      <pubDate>Thu, 01 Oct 2015 10:00:00 +0000</pubDate>
+      <guid>/events/20151001-springschool/</guid>
+      <description>&lt;p&gt;See the 
+&lt;a href=&#34;http://www.coepp.org.au/events/spring-school-particle-physics-and-cosmology/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoEPP&lt;/a&gt; for further details.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

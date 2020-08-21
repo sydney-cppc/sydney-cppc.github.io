@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20201214-lightdm/</loc>
+    <lastmod>2020-12-14T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/</loc>
+    <lastmod>2020-12-14T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-14T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20201130-gordongodfrey/</loc>
+    <lastmod>2020-11-30T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20200221-sydneymeeting/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20191202-tevpa/</loc>
+    <lastmod>2019-12-02T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20191126-springschool/</loc>
+    <lastmod>2019-11-26T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20161128-cospa/</loc>
+    <lastmod>2016-11-28T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20151001-springschool/</loc>
+    <lastmod>2015-10-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/arunasalam-suntharan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/backich-andrew/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/balaji-shyam/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/bennett-jack/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/boehm-celine/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/chen-joe/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/chen-zhe/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/cohen-nathan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/dimastrogiovanni-ema/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/dumitrescu-cosmin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/fasiello-matteo/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/felkl-tobias/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/foot-robert/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hamann-jan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hsu-chialing/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/huang-andre/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/kang-yuqi/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/kim-yunho/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/kobakhidze-archil/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/lackner-adam/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/li-ben/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/li-sze-lok/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/malhotra-ameek/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/mosbech-markus-rasmussen/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/nommensen-thomas/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ohare-ciaran/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/peak-lawrence/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/picker-zachary/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/pierobon-giovanni/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/saavedra-aldo/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/schmidt-michael/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/sofrevski-damian/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/toutounji-nadia/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ulrichs-juris/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/upadhye-amol/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/varvell-kevin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/wong-yvonne/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/wons-julius/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/yabsley-bruce/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+  </url>
+  
+</urlset>
