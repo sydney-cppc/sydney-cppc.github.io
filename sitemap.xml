@@ -18,17 +18,22 @@
   </url>
   
   <url>
-    <loc>/events/20201214-ldw/</loc>
-    <lastmod>2020-12-14T10:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/events/</loc>
-    <lastmod>2020-12-14T10:30:00+00:00</lastmod>
+    <lastmod>2021-02-19T09:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-02-19T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20210219-sydneymeeting/</loc>
+    <lastmod>2021-02-19T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20201214-ldw/</loc>
     <lastmod>2020-12-14T10:30:00+00:00</lastmod>
   </url>
   
@@ -236,6 +241,10 @@
   
   <url>
     <loc>/authors/cohen-nathan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/coy-rupert/</loc>
   </url>
   
   <url>
