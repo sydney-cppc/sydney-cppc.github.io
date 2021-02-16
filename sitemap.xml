@@ -78,38 +78,8 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -158,6 +128,11 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -183,35 +158,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/arunasalam-suntharan/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/backich-andrew/</loc>
   </url>
   
@@ -228,6 +174,10 @@
   </url>
   
   <url>
+    <loc>/authors/bryan-sean/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/cheema-priyanka/</loc>
   </url>
   
@@ -240,23 +190,11 @@
   </url>
   
   <url>
-    <loc>/authors/cohen-nathan/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/coy-rupert/</loc>
   </url>
   
   <url>
-    <loc>/authors/dimastrogiovanni-ema/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/dumitrescu-cosmin/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/fasiello-matteo/</loc>
   </url>
   
   <url>
@@ -300,10 +238,6 @@
   </url>
   
   <url>
-    <loc>/authors/li-sze-lok/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/malhotra-ameek/</loc>
   </url>
   
@@ -340,7 +274,7 @@
   </url>
   
   <url>
-    <loc>/authors/sofrevski-damian/</loc>
+    <loc>/authors/stewart-adam/</loc>
   </url>
   
   <url>
@@ -372,7 +306,63 @@
   </url>
   
   <url>
+    <loc>/old/authors/arunasalam-suntharan/</loc>
+  </url>
+  
+  <url>
+    <loc>/old/authors/cohen-nathan/</loc>
+  </url>
+  
+  <url>
+    <loc>/old/authors/dimastrogiovanni-ema/</loc>
+  </url>
+  
+  <url>
+    <loc>/old/authors/fasiello-matteo/</loc>
+  </url>
+  
+  <url>
+    <loc>/old/authors/li-sze-lok/</loc>
+  </url>
+  
+  <url>
+    <loc>/old/authors/sofrevski-damian/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/arunasalam-suntharan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/cohen-nathan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/dimastrogiovanni-ema/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/fasiello-matteo/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/li-sze-lok/</loc>
+  </url>
+  
+  <url>
+    <loc>/old/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
     <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/sofresvski-damian/</loc>
   </url>
   
 </urlset>

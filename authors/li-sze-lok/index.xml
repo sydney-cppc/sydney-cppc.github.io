@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sydney-CPPC</title>
+    <title>Li-Sze-Lok | Sydney-CPPC</title>
     <link>/authors/li-sze-lok/</link>
       <atom:link href="/authors/li-sze-lok/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sydney-CPPC</description>
+    <description>Li-Sze-Lok</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/authors/li-sze-lok/avatar_hu2681f5d91f7ef2d5fab0b02f40253739_5326_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Sydney-CPPC</title>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Li-Sze-Lok</title>
       <link>/authors/li-sze-lok/</link>
     </image>
     
